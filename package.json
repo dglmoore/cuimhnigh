@@ -1,0 +1,28 @@
+{
+  "name": "cuimhnigh",
+  "version": "1.0.0",
+  "description": "A CLI Flashcard App",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint index.js",
+    "start": "node index.js",
+    "docs": "docco index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dglmoore/cuimhnigh.git"
+  },
+  "author": "Douglas G. Moore <doug@dglmoore.com> (https://dglmoore.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dglmoore/cuimhnigh/issues"
+  },
+  "homepage": "https://github.com/dglmoore/cuimhnigh#readme",
+  "dependencies": {
+    "commander": "^2.19.0"
+  },
+  "devDependencies": {
+    "docco": "^0.8.0",
+    "eslint": "^5.16.0"
+  }
+}
