@@ -1,7 +1,9 @@
+```
   ___ _   _(_)_ __ ___ | |__  _ __ (_) __ _| |__
  / __| | | | | '_ ` _ \| '_ \| '_ \| |/ _` | '_ \
 | (__| |_| | | | | | | | | | | | | | | (_| | | | |
  \___|\__,_|_|_| |_| |_|_| |_|_| |_|_|\__, |_| |_|
                                       |___/
+```
+## A simple command-line flashcard application
 
-## A simple command-line flashcard application.
